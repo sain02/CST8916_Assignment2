@@ -144,12 +144,13 @@ Final recommendation: Choose AWS for general real-time systems, Azure for enterp
 ---
 
 ## AI Usage Disclosure  
-This report was partially generated using ChatGPT for:  
+Used ChatGPT for :
+
 - Drafting sections  
 - Structuring the report  
 - Improving clarity and formatting  
 
-All content has been reviewed, validated, and modified to reflect my own understanding of the topic.  
+All content has been reviewed, validated, and modified by my own understanding of the topic.  
 
 ---
 ---
